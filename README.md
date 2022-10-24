@@ -1,12 +1,10 @@
-# Astro Crash Course
-
-Website built with Astro from my [YouTube crash course](https://youtu.be/Oi9z5gfIHJs).
+# TUTORIAL_Astro
 
 <img src="/src/images/screen.png">
 
-## Usage
+**Tutorial Source:** [Astro Crash Course - Traversy Media](https://youtu.be/Oi9z5gfIHJs)
 
-All commands are run from the root of the project, from a terminal:
+## Usage
 
 | Command                | Action                                             |
 | :--------------------- | :------------------------------------------------- |
@@ -19,4 +17,5 @@ All commands are run from the root of the project, from a terminal:
 
 ## HTML & CSS Theme
 
-All of the .html files, style.css and images are in the `astro-website-theme` folder.
+All of the .html files, style.css and images are in the `astro-website-theme` 
+folder.
